@@ -1,4 +1,4 @@
-<img src="http://dl.dropbox.com/u/4618521/Wow/tukui_nugrunning.jpg" />
+<img src="https://github.com/rubenvincenten/TukUI_NugRunning/raw/master/screenshot.jpg" />
 
 This is a skin for <a href="http://www.wowinterface.com/downloads/info10440-NugRunning.html">NugRunning</a>. NugRunning has the advantage over Tukui_ClassTimer of showing DOT timers on multiple targets as it gets the information from the combat log and <b>not</b> from the UNIT_AURA event.
 
