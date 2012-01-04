@@ -1,0 +1,10 @@
+## Interface: 40300
+## Title: |cffC495DDTukui|r NugRunning skin
+## Author: MrRuben5
+## Notes: |cffC495DDTukui|r/|cff1784d1ElvUI|r editless skin for NugRunning.
+## Version: 40300.2
+## Dependencies: NugRunning
+## OptionalDeps: ElvUI, TukUI
+
+config.lua
+TukUI_NugRunning.lua
