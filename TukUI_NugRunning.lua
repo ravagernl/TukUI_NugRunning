@@ -146,7 +146,7 @@ end
 if config.visualstacks then do
 	local defaultColor = {1, 1, 0}
 	function TimerBar.SetCount(self,amount)
-	if not amount then return end -- attempt to compare number with nil :/
+		if not amount then return end -- attempt to compare number with nil :/
 		local stacks = self.visualstacks
 		if not stacks then
 			stacks = CreateFrame('FRAME', nil, self.bar)
