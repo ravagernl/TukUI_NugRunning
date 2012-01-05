@@ -4,7 +4,7 @@
 ## Notes: |cffC495DDTukui|r/|cff1784d1ElvUI|r editless skin for NugRunning.
 ## Version: 40300.2
 ## Dependencies: NugRunning
-## OptionalDeps: ElvUI, TukUI
+## OptionalDeps: ElvUI, Tukui
 
 config.lua
 TukUI_NugRunning.lua

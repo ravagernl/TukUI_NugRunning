@@ -1,5 +1,5 @@
 local ElvUI = ElvUI
-local TukUI = TukUI
+local Tukui = Tukui
 local NugRunning = NugRunning
 local TimerBar = NugRunning and NugRunning.TimerBar
 local addonName, addon = ...
@@ -23,10 +23,10 @@ end
 local E, L, DF, T, C
 if ElvUI then
 	E, L, DF = unpack(ElvUI) --Engine
-elseif TukUI then
-	T, C, L = unpack(TukUI)
+elseif Tukui then
+	T, C, L = unpack(Tukui)
 else
-	pr('Neither ElvUI or TukUI was found.')
+	pr('Neither ElvUI or Tukui was found.')
 	return
 end
 
