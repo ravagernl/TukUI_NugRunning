@@ -14,3 +14,10 @@ This AddOn only skins the bars. You still need to set the proper size and positi
 More information on how to add your own spells to NugRunning or other options can be found on the <a href="http://www.wowinterface.com/downloads/info10440-NugRunning.html">NugRunning download page</a> and the <a href="https://github.com/rgd87/NugRunning/wiki/NugRunningUserConfig">NugRunningConfig wiki page</a>.
 
 [ <a href="https://github.com/rubenvincenten/TukUI_NugRunning/zipball/master">Download</a> ]
+
+<b>Installation</b>:
+
+1. Rename the extracted directory to "TukUI_NugRunning" (case sensitive).
+2. Move the direcory to your AddOns directory.
+3. ??
+4. Profit!
